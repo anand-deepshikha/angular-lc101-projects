@@ -1,0 +1,12 @@
+.chores
+{
+    color:darkseagreen;
+    font-size: 20px;
+}
+.chores h3{
+   text-align: center; 
+   text-decoration: underline;
+}
+.chores li{
+    font-style: italic;
+}
